@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://divein2learning.github.io/sitemap.xml
