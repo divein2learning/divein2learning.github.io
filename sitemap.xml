@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://divein2learning.github.io/posts/</loc>
+    <lastmod>2023-03-04T08:16:26+08:00</lastmod>
+  </url><url>
+    <loc>https://divein2learning.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%AF%86/</loc>
+    <lastmod>2023-03-04T08:16:26+08:00</lastmod>
+  </url><url>
+    <loc>https://divein2learning.github.io/</loc>
+    <lastmod>2023-03-04T08:16:26+08:00</lastmod>
+  </url><url>
     <loc>https://divein2learning.github.io/categories/</loc>
   </url><url>
     <loc>https://divein2learning.github.io/tags/</loc>
-  </url><url>
-    <loc>https://divein2learning.github.io/</loc>
   </url>
 </urlset>
